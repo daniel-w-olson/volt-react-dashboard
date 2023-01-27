@@ -20,6 +20,9 @@ import { HashRouter } from "react-router-dom";
 // core styles
 import "./scss/volt.scss";
 
+// alternative core styles supporting later versions
+//import "./scss/volt.css";
+
 // vendor styles
 import "react-datetime/css/react-datetime.css";
 
